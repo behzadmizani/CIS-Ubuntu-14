@@ -12,6 +12,7 @@ My_slogan = "life with linux is better" echo -e $My_slogan
 
 you can exacute this item with CIS-Ubuntu14-.sh
 
+###########################################################
 
 6.2.7 Ensure all users' home directories exis
 
